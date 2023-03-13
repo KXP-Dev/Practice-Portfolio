@@ -1,12 +1,19 @@
 header {
-  background-color: yellow;
-  color: red;
-}
-
-body {
-  background-color: black;
+  background-color: red;
 }
 
 .text-header {
   color: blue;
+}
+
+span {
+  text-align: center;
+}
+
+main {
+  background-color: green;
+}
+
+p {
+  font-style: italic;
 }/*# sourceMappingURL=index.css.map */
