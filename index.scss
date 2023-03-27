@@ -1,0 +1,18 @@
+@import "./defaults/colors";
+@import "./components/header";
+@import "./components/footer";
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: $primary-background;
+    font-family: 'Times New Roman', Times, serif;
+}
+

@@ -1,0 +1,79 @@
+.nav-header {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.links-header {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  background: grey;
+  border-radius: 25%;
+  transition: 0.5s;
+}
+
+.links-header a {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  left: 10px;
+  top: 35px;
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.links-header:hover {
+  width: 110px;
+  height: 110px;
+}
+
+a:hover {
+  font-size: 25px;
+}
+
+a:visited {
+  color: greenyellow;
+}
+
+.text-header {
+  color: white;
+  text-align: center;
+}
+
+.text-1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.text-2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.text-3 {
+  font-size: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: grey;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}/*# sourceMappingURL=index.css.map */
