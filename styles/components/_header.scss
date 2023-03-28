@@ -1,10 +1,7 @@
-@import "/styles/defaults/colors";
-@import "./_utils.scss";
-
 .nav-header {
     width: 100%;
     padding: 10px;
-    background: $primary-background;
+    background: black;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -15,14 +12,14 @@
     width: 100px;
     height: 100px;
     margin: 5px;
-    background: $secondary-color;
+    background: grey;
     border-radius: 25%;
     transition: .5s;
 }
 
 .links-header a {
     text-decoration: none;
-    color: $primary-color;
+    color: white;
     position: relative;
     left: 10px;
     top: 35px;
@@ -40,7 +37,7 @@ a:hover {
 }
 
 a:visited {
-    color: midnightblue;
+    color: pink;
 }
 
 .text-header{
@@ -61,4 +58,11 @@ a:visited {
 .text-3{
     font-size: 20px;
     text-align: center;
+}
+
+@media screen and (min-width:320px) {
+    .nav-header {
+        flex-direction: row;
+        justify-content: center;
+    }
 }

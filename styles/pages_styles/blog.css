@@ -1,0 +1,23 @@
+.blog-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: column;
+  color: white;
+}
+
+@media screen and (min-width: 320px) {
+  .blog-container {
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+hr {
+  border: solid 1px white;
+  color: solid white;
+  background-color: solid white;
+  width: 100%;
+  height: 1px;
+}/*# sourceMappingURL=blog.css.map */
