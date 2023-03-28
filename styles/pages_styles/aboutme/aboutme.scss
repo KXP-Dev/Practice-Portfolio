@@ -1,7 +1,3 @@
-@import "../defaults/colors";
-@import "../components/header";
-@import "../components/footer";
-
 img{
     height: 300px;
     width: 300px;
@@ -9,24 +5,4 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-body{
-    background-color: $primary-background;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.aboutme-header{
-    color: $primary-color;
-    text-align: center;  
-}
-
-.aboutme-1{
-    font-size:25px;
-    text-align: center;
-}
-
-.aboutme-2{
-    font-size:25px;
-    text-align: center;
 }

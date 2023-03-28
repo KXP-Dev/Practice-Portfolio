@@ -1,1 +1,8 @@
-/*# sourceMappingURL=aboutme.css.map */
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}/*# sourceMappingURL=aboutme.css.map */

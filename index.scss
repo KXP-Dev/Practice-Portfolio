@@ -1,6 +1,6 @@
-@import "./defaults/colors";
-@import "./components/header";
-@import "./components/footer";
+@import "styles/defaults/colors";
+@import "styles/components/header";
+@import "styles/components/footer";
 
 img{
     height: 300px;
@@ -15,4 +15,3 @@ body{
     background-color: $primary-background;
     font-family: 'Times New Roman', Times, serif;
 }
-
