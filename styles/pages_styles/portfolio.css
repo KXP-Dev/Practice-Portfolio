@@ -1,1 +1,12 @@
-/*# sourceMappingURL=portfolio.css.map */
+.resume {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=portfolio.css.map */
