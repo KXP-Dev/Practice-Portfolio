@@ -1,6 +1,7 @@
 # Kim Perez - Portfolio
 [Portfolio](https://kxp-portfolio.netlify.app/index.html/) "Link to Portfolio"
 [GitHub](https://www.github.com/The-Programming-Mango/Portfolio-Assignment/) "Link to my GitHub Repository"
+[Presentation](https://youtu.be/fJDSAyBvPdU/) "Link to my presentation slide deck"
 
 ## Purpose
 The Purpose of this portfolio is to demonstrate my web development ability as well as to showcase myself for employers.
