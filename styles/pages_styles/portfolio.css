@@ -1,9 +1,11 @@
+/*Resume placement*/
 .resume {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+/*Color and position*/
 main {
   color: white;
   display: flex;
