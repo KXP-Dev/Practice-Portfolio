@@ -4,7 +4,7 @@
 [Presentation](https://youtu.be/fJDSAyBvPdU/) "Link to my presentation slide deck"
 
 ## Purpose
-The Purpose of this portfolio is to demonstrate my web development ability as well as to showcase myself for employers.
+Demonstation of a mock digital portfolio.
 
 ## Functionality / Features
 -Navigation Bar
@@ -33,7 +33,7 @@ The Purpose of this portfolio is to demonstrate my web development ability as we
 ![Blog Mobile](images/blog-mobile.jpg)
 
 ## Target Audience
-Target Audience are recruiters and employers.
+Recruiters & Employers
 
 ## Tech Stack
 Software and Components used are:
